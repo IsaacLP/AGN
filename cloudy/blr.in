@@ -1,0 +1,9 @@
+table power law
+phi(H) 18.5 vary
+grid from 18 to 24 in 0.5 dex steps ncpus 8
+hden 10 vary
+grid from 8 to 14 in 0.5 dex steps ncpus 8
+stop column density 22
+iterate to convergence
+save line list "blr.line" ratio no hash "LineList.dat" last
+save grid "blr.grd" no hash

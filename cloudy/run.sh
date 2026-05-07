@@ -1,0 +1,1 @@
+/Users/isaac/cloudy/c25.00/source/cloudy.exe -r $1

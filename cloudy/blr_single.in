@@ -1,0 +1,10 @@
+table power law
+phi(H) 18.5
+hden 10 
+stop column density 22
+iterate to convergence
+print last iteration
+save overview "blr_single.ovr" last
+save continuum "blr_single.con" units microns last
+save line list "blr_single.line" ratio no hash "LineList.dat"
+save grid "blr_single.grd" no hash
