@@ -1,5 +1,5 @@
 .vscode
-presentations/
+**__pycache__
 **.pdf
 **.fits
 **.out
