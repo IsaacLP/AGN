@@ -5,3 +5,5 @@
 **.fits
 **.out
 tutorials/SciScript-Python/
+*.pdf
+!project/*.pdf
