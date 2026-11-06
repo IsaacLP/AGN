@@ -9,3 +9,5 @@
 tutorials/SciScript-Python/
 *.pdf
 !project/*.pdf
+tutorials/7-SED/AGNfitter/
+tutorials/7-SED/qsosed/
